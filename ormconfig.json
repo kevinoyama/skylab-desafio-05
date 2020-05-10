@@ -2,9 +2,9 @@
   "type": "postgres",
   "host": "192.168.99.101",
   "port": 5432,
-  "username": "postgres",
-  "password": "gostack",
-  "database": "gostack_desafio06",
+  "username": "test",
+  "password": "test",
+  "database": "test",
   "entities": ["./src/models/*.ts"],
   "migrations": ["./src/database/migrations/*.ts"],
   "cli": {
